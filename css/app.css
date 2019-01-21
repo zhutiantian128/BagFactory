@@ -1,0 +1,18 @@
+.col1{
+    background: red;
+}
+.col2{
+    background: yellow;
+}
+.col3{
+    background: blue;
+}
+.col4{
+    background: blueviolet;
+}
+.col-xs-4{
+    border: 1px solid red ;
+}
+div.container{
+    margin-top: 70px;
+}
